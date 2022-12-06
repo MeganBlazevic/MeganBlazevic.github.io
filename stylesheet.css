@@ -1,0 +1,16 @@
+h1 {
+	font-size: 48px; color: navy; text-align: center; text-decoration: bold; background-color: teal;}
+
+h3 {
+    color: gray;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  ul {
+    text-align: center;
+    font-size:14px;
+    border-width: 9px;
+	border-style: groove;
+	border-color: blueviolet;
+    list-style-position: inside; }
